@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 I’m currently working on ... 구직중입니다
+- 🌱 I’m currently learning ... javascript, react, 자료구조&알고리즘을 공부하고 있습니다.
+
 
 <!--
 **lee-chun-91/lee-chun-91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
