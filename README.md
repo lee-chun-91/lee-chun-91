@@ -1,6 +1,8 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ... 구직중입니다
-- 🌱 I’m currently learning ... javascript, react, 자료구조&알고리즘을 공부하고 있습니다.
+- 🔭 I’m currently working on 
+  구직중입니다
+- 🌱 I’m currently learning 
+  javascript, react, 자료구조&알고리즘을 공부하고 있습니다.
 
 
 <!--
