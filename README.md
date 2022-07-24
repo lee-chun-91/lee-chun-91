@@ -3,9 +3,13 @@
   - 신입 프론트엔드 개발자로 일하기 위해 구직중입니다
   
 - 🌱 study 
-  - javascript, html, css
-  - react
+  - javascript(ES6,ES7)
+  - React
+  - html5, css3 
+  - TDD (react-testing-library, jest)
+  - Typescript
   - 자료구조&알고리즘
+  - Linux
 
 
 <!--
