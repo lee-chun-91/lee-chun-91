@@ -4,6 +4,7 @@
   
 - 🌱 study 
   - javascript(ES6+ ~)
+  - Vue2
   - React
   - html5, css3 
   - TDD (react-testing-library, jest)
