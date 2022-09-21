@@ -3,12 +3,13 @@
   - 신입 프론트엔드 개발자로 일하기 위해 구직중입니다
   
 - 🌱 study 
+  - Vue2, Vue3
+  - C# (.NET)
+  - jest
   - javascript(ES6+ ~)
-  - Vue2
+  - Typescript
   - React
   - html5, css3 
-  - TDD (react-testing-library, jest)
-  - Typescript
   - 자료구조&알고리즘
   - Linux
 
