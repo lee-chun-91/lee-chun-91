@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 경험
   - [부트캠프] 항해99 6기 프론트엔드 개발 (2022.03 ~ 2022.06)
-    - react
+    - react, javascript, html, css, 자료구조&알고리즘
   - [인턴] 주식회사 아이지에이웍스 프론트엔드 개발 (2022.09 ~ 2023.01)
     - vue.js, TypeScript, SCSS, C#, ASP.NET Core
   
