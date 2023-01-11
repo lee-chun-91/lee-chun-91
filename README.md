@@ -5,7 +5,7 @@
   - [인턴] 주식회사 아이지에이웍스 프론트엔드 개발 (2022.09 ~ 2023.01)
     - vue.js, TypeScript, SCSS, C#, ASP.NET Core
   
-- 🌱 
+- 🌱 공부 
   - React, Vue.JS
   - C# (.NET)
   - javascript(ES6+ ~), Typescript
