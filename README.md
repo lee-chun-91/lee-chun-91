@@ -6,12 +6,10 @@
     - vue.js, TypeScript, SCSS, C#, ASP.NET Core
   
 - 🌱 공부 
-  - React, Vue.JS
-  - C# (.NET)
+  - React, Next.js, Vue.JS
   - javascript(ES6+ ~), Typescript
   - html5, css3 
   - 자료구조&알고리즘
-  - Linux
 
 <!--
 **lee-chun-91/lee-chun-91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
