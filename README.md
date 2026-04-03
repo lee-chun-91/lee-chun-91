@@ -16,9 +16,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... 구직중입니다
-- 🌱 I’m currently learning ... javascript, react, 자료구조&알고리즘을 공부하고 있습니다. 
-
+- 🔭 I’m currently working on ... 공공기관
+- 🌱 I’m currently learning ... 클로드 등 AI 활용에 대해 이것저것 시도해보고 있습니다.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
